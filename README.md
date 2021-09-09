@@ -1,2 +1,2 @@
 # Software-Architecture
-包括实例程序以及UML图
+软件设计模式与体系结构课程笔记扩充和作业
